@@ -1,0 +1,4 @@
+=== SECURITY REPORT ===
+
+⚠ Suspicious login time from 10.0.0.5 at 2:00
+🚨 Possible brute-force attack from 192.168.1.10 (3 failed attempts)
