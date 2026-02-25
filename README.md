@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Log Analyzer
 
 ## Overview
@@ -31,3 +32,7 @@ This project simulates a real SOC workflow and demonstrates log monitoring, basi
 
 ```bash
 py analyzer.py
+=======
+# Log_Analyzer
+Python tool for analyzing server authentication logs for SOC
+>>>>>>> 752085e4fcf1e70043fdc6df5d494eeeb1556691
