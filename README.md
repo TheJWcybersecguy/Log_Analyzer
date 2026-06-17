@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Log Analyzer
 
 ## Overview
@@ -6,23 +5,17 @@ The Log Analyzer is a Python tool designed to help security analysts detect susp
 
 This project simulates a real SOC workflow and demonstrates log monitoring, basic cybersecurity analysis, and automation.
 
----
-
 ## Features
-- Detects **multiple failed login attempts** (possible brute-force attacks)
-- Flags **logins outside business hours** (suspicious access)
-- Generates a **report.txt** file with all alerts
-- Handles **Unicode characters** (e.g., ⚠, 🚨) safely
+- Detects multiple failed login attempts (possible brute-force attacks)
+- Flags logins outside business hours (suspicious access)
+- Generates a report.txt file with all alerts
+- Handles Unicode characters (e.g., ⚠, 🚨) safely
 - Future-proof date handling by adding the **current year** for log entries
-
----
 
 ## Requirements
 - Python 3.x installed
 - Works on Windows, Linux, or macOS
 - No external libraries required
-
----
 
 ## Setup & Usage
 1. Clone or download the project folder.
@@ -32,7 +25,6 @@ This project simulates a real SOC workflow and demonstrates log monitoring, basi
 
 ```bash
 py analyzer.py
-=======
+
 # Log_Analyzer
 Python tool for analyzing server authentication logs for SOC
->>>>>>> 752085e4fcf1e70043fdc6df5d494eeeb1556691
